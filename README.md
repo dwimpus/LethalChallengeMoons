@@ -1,2 +1,5 @@
-# LethalChallengeMoons
-A Lethal company mod that allows you to change the week number for the weekly challenge moons, enabling you to play on future/past moons.
+# LethalChallengeMoons v1.0.1
+### Changes the weekly challenge moons to any week you would like!
+
+## Instructions
+Place the ```ChangeMoons.dll``` in your BepInEx/Plugins folder.
