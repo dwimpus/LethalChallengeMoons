@@ -3,3 +3,5 @@
 
 ## Instructions
 Place the ```ChangeMoons.dll``` in your BepInEx/Plugins folder.
+Once the game is loaded you can press the insert key to open the GUI.
+
