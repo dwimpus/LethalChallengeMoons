@@ -1,4 +1,4 @@
-# LethalChallengeMoons v1.0.1
+# LethalChallengeMoons v1.0.2
 ### Changes the weekly challenge moons to any week you would like!
 
 ## Instructions
